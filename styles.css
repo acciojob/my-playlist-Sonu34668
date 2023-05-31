@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+*{
+	box-sizing : border-box;
+}
+h1, h2{
+	text-align : center;
+}
+body{
+	background-color : #cccccc;
+}
+.player_one{
+	border : 1px solid gray;
+	padding : 10px 0;
+	background-color : white;
+}
+li{
+	list-style-type:none;
+}
+.player_one a{
+	color : #cccccc;
+	text-decoration : none;
+}
+.player_two{
+	background-color : white;
+	display : inline-block;
+}
+	
+	
+}
